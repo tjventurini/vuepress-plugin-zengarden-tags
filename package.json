@@ -1,0 +1,28 @@
+{
+  "name": "vuepress-plugin-zengarden-tags",
+  "version": "1.0.0",
+  "description": "Provides tags for your VuePress blog 🏷",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjventurini/vuepress-plugin-zengarden-tags.git"
+  },
+  "dependencies": {
+    "vuepress-plugin-zengarden-publish": "^1.0.1",
+  },
+  "keywords": [
+    "vuepress",
+    "vuepress-plugin",
+    "tags",
+    "zengarden"
+  ],
+  "author": "Thomas Venturini <thomas@venturini.codes>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjventurini/vuepress-plugin-zengarden-tags/issues"
+  },
+  "homepage": "https://github.com/tjventurini/vuepress-plugin-zengarden-tags#readme"
+}
